@@ -13,7 +13,7 @@ if (str === "bg"){
 } else if (str === "img") {
   setContentImage('url(/bgimage.png)')
 } else if (str === "help"){
-setContentText("The calvary is coming!")
+setContentText("The calvary is coming! hmm alright")
 }
 
 }
