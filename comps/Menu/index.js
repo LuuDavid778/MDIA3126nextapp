@@ -68,7 +68,7 @@ setExpanded(expand)
             setExpanded(!expanded);
         }}>
          <DropDownBox>
-             <div><img src = "/user.png"></img></div>
+             <div><img src = "/user.png" ></img></div>
             <div>JohnDoe@mybcit.ca</div>
             <div><img src = "/expandarrow.png"></img></div>
          </DropDownBox>
